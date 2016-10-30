@@ -5,7 +5,7 @@ body {
   color: #eaeaea;
   font: 20px;
   line-height: 1.5;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  font-family: font-family: 'Roboto Slab', serif, Terminal, monospace;
 }
 
 /* General & 'Reset' Stuff */
