@@ -5,7 +5,7 @@ body {
   color: #eaeaea;
   font: 20px;
   line-height: 1.5;
-  font-family: font-family: 'Roboto Slab', serif, Terminal, monospace;
+  font-family: font-family: 'Ubuntu', sans-serif, Terminal, monospace;
 }
 
 /* General & 'Reset' Stuff */
@@ -48,7 +48,7 @@ header h1 {
   line-height: 1.5;
   margin: 0 0 0 140px;
   font-weight: bold;
-  font-family: font-family: 'Roboto Slab', serif;
+  font-family: font-family: 'Ubuntu', sans-serif;
   color: #b5efff;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
