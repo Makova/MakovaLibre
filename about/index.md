@@ -6,7 +6,7 @@ date: 2017-04-02
 comments: false
 ---
 
-# Cursos
+## Cursos
 
 ### Campus Universitario de Ceuta
 
@@ -29,7 +29,7 @@ comments: false
 
 
 
-# Habilidades
+## Habilidades
 
 * __Programación:__ Python, Arduino, Android, Processing
 
@@ -38,9 +38,10 @@ comments: false
 * __Idiomas:__ Español, Catalán, Inglés.
 
 
-# Experiencia
+## Experiencia
 
 ### Profesor extraescolares robótica
+
 :---------------------------|--------------------------:  
 *Granada, España, Alhendín* | Octubre 2016 - actualidad
 
@@ -83,9 +84,4 @@ comments: false
 
 :----------------|-----------------------: 
 *Granada,España* | diciembre 2015 - 2016
-
-### 
-
-:-----------------|---------------:
-                  | 
 
