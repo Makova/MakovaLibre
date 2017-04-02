@@ -12,12 +12,13 @@ Me siento una persona muy afortunada. Me he reciclado a los cuarenta y tantos so
 aprendiendo a cada día que paso rodeado de grandes personas. 
 Desde Python a Arduino, pasando por HTML5, Processig, Android y todo lo que se me ponga por delante. Impresión 3D, robótica, pizarras digitales, cursos, etc... En definitiva, un MAKER en mayúsculas.
 
+Ahora os presento algo de lo que he hecho y lo que estoy consiguiendo con mucha tenacidad.
+
 
 
 
 
 ## Cursos
-
 
 ### Campus Universitario de Ceuta
 
@@ -58,7 +59,6 @@ Desde Python a Arduino, pasando por HTML5, Processig, Android y todo lo que se m
 
 ## Experiencia
 
-
 ### Profesor extraescolares robótica
 
 :---------------------------|--------------------------:  
@@ -93,7 +93,6 @@ Desde Python a Arduino, pasando por HTML5, Processig, Android y todo lo que se m
 
 
 ## Actividades 
-
 
 ### Campus Semana Santa por OpenXXI
 
