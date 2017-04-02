@@ -2,7 +2,7 @@
 layout: post
 title: "Cómo tener Bash de Linux en Windows10"
 date: 2017-04-02
-excerpt: "Cuando se quieres aprender Bash desde Windows."
+excerpt: "Cuando se quiere aprender Bash desde Windows."
 tags: [Linux, Bash, windows]
 comments: false
 ---
