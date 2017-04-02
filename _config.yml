@@ -30,8 +30,8 @@ sass:
 
 # Social
 # if you don't have any of social below, comment the line.
-#google:
-  #plus:            #username
+google:
+  plus:             ManuCogolludo
   #analytics:
   #verify:
   #ad-client:
@@ -39,10 +39,10 @@ sass:
 #bing-verify:
 #email:
 twitter:            Makova65
-facebook:           manuel_cogolludo
+facebook:           manu.cogolludo
 github-url:         makova
 #stackoverflow:     username
-linkedin:           ManuelCogolludoVallejo
+linkedin:           manuel-cogolludo-vallejo-44038a140/
 #xing:              username
 instagram:          makovasl
 #lastfm:            username
@@ -53,10 +53,10 @@ instagram:          makovasl
 # steam:              username
 #dribbble:          username
 #youtube:           username
-#youtube-channel:   channel
+youtube-channel:    UC3YU1ngAUmSiDj3YybrXlSA
 #soundcloud:        username
 #weibo:             username
-flickr:             makovaSL
+flickr:             campussl
 #codepen:           username
 #keybase:           username
 #xmpp:              username@server.com
