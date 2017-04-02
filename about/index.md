@@ -11,7 +11,8 @@ Nací y me crié en un barrio de Barcelona y un 10 de mayo del año 2000 decidí
 Me siento una persona muy afortunada. Me he reciclado a los cuarenta y tantos sobre informática, nuevas tecnologías y estoy
 aprendiendo a cada día que paso rodeado de grandes personas. 
 Desde Python a Arduino, pasando por HTML5, Processig, Android y todo lo que se me ponga por delante. Impresión 3D, robótica, pizarras digitales, cursos, etc... En definitiva, un MAKER en mayúsculas.
-Ahora os presento es lo que he hecho y voy consiguiendo con mucha tenacidad.
+
+Ahora os presento algo de lo que he hecho y lo que estoy consiguiendo con mucha tenacidad.
 
 
 
