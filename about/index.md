@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Quién soy
+title: Sobre mí
 tags: [about]
 date: 2017-04-02
 comments: false
