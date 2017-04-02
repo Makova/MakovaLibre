@@ -30,7 +30,7 @@ sass:
 
 # Social
 # if you don't have any of social below, comment the line.
-#google:
+google:
   plus:            +ManuCogolludo
   #analytics:
   #verify:
@@ -53,7 +53,7 @@ instagram:          makovasl
 # steam:              username
 #dribbble:          username
 #youtube:           username
-#youtube-channel:   channel
+youtube-channel:    UC3YU1ngAUmSiDj3YybrXlSA
 #soundcloud:        username
 #weibo:             username
 flickr:             campussl
