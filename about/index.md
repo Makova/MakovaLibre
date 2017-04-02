@@ -6,11 +6,23 @@ date: 2017-04-02
 comments: false
 ---
 
+
+Nací y me crié en un barrio de Barcelona y un 10 de mayo del año 2000 decidí venir a la tierra de mis padres, Granada. 
+Me siento una persona muy afortunada. Me he reciclado a los cuarenta y tantos sobre informática, nuevas tecnologías y estoy
+aprendiendo a cada día que paso rodeado de grandes personas. 
+Desde Python a Arduino, pasando por HTML5, Processig, Android y todo lo que se me ponga por delante. Impresión 3D, robótica, pizarras digitales, cursos, etc... En definitiva, un MAKER en mayúsculas.
+
+
+
+
+
 ## Cursos
+
 
 ### Campus Universitario de Ceuta
 
 <a href="https://github.com/Makova/software-libre-ceuta" target="_black">Curso sobre Software Libre</a>.
+
 
 
 ### Curso Pizarrras Digitales
@@ -18,14 +30,18 @@ comments: false
 <a href="https://drive.google.com/drive/search?q=pizarras%20digitales" target="_black">Facultad de Ciencias de la Educación</a>.
 
 
+
 ### Curso on-line Python avanzado
 
 <a href="https://github.com/oslugr/curso-python-avanzado" target="_black">Desarrollo colaborativo del curso sobre Python Avanzado</a>.
 
 
+
 ### Curso Tutorial Cura
 
 <a href="https://github.com/Makova/Tutorial-Cura" target="_black">Facultad de Bellas Artes</a>.
+
+
 
 
 
@@ -38,7 +54,10 @@ comments: false
 * __Idiomas:__ Español, Catalán, Inglés.
 
 
+
+
 ## Experiencia
+
 
 ### Profesor extraescolares robótica
 
@@ -72,7 +91,9 @@ comments: false
 
 
 
-# Actividades 
+
+## Actividades 
+
 
 ### Campus Semana Santa por OpenXXI
 
