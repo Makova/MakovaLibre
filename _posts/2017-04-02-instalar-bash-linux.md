@@ -24,3 +24,12 @@ Una vez reiniciado el sistema, volver a *Advanced Windows Update* y elegir la ac
     <figcaption>A continuación ir a Configuración del desarrollador y elegir Modo desarrollador.</figcaption>
 </figure>
 
+<figure>
+    <img src="/assets/images/bash-windows10/Bash5.png">
+</figure>
+
+Una vez hecho esto, abra "activar y desactivar las características de Windows" y seleccione Subsistema de Windows para Linux (beta).
+
+<figure>
+    <img src="/assets/images/bash-windows10/Bash1.png">
+</figure>
