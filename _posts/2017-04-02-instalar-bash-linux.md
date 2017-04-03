@@ -21,7 +21,6 @@ Una vez reiniciado el sistema, volver a *Advanced Windows Update* y elegir la ac
 
 <figure>
     <img src="/assets/images/bash-windows10/Bash0.png">
-    <figcaption>A continuación ir a Configuración del desarrollador y     elegir Modo desarrollador.
-    </figcaption>
+    <figcaption>A continuación ir a Configuración del desarrollador y elegir Modo desarrollador.</figcaption>
 </figure>
 
