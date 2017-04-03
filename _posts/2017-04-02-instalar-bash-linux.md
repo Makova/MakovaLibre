@@ -19,4 +19,6 @@ Lo primero es activar o unirse al programa *Insider Build* para tener acceso a f
 
 Una vez reiniciado el sistema, volver a *Advanced Windows Update* y elegir la actualización de pre-lanzamiento y seleccionar la opción *Rápido*
 
+[!](https://github.com/Makova/MakovaLibre/blob/master/assets/images/bash-windows10/Bash0.png)
+
 A continuación ir a *Configuración del desarrollador* y elegir *Modo desarrollador*.
