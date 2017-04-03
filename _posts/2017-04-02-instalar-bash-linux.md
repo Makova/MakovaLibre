@@ -17,7 +17,7 @@ Después de esto, comenzamos.
 
 Lo primero es activar o unirse al programa *Insider Build* para tener acceso a funciones de pre-lanzamiento. Abrimos *Configuración de actualizaciones* y vamos a *Opciones Avanzadas*  Siguiendo las instrucciones no unimos al programa *Insider Build* . Se requiere que inicie sesión con la cuenta de Microsoft y reinciar el sistema.
 
-Una vez reiniciado el sistema, volver a *Advanced Windows Update* y elegir la actualización de pre-lanzamiento y seleccionar la opción *Rápido*
+Una vez reiniciado el sistema, volver a *Advanced Windows Update* y elegir la actualización de pre-lanzamiento y seleccionar la opción *Rápido o como yo, Aplazado*
 
 <figure>
     <img src="/assets/images/bash-windows10/Bash0.png">
