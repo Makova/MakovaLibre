@@ -20,17 +20,17 @@ Lo primero es activar o unirse al programa *Insider Build* para tener acceso a f
 Una vez reiniciado el sistema, volver a *Advanced Windows Update* y elegir la actualización de pre-lanzamiento y seleccionar la opción *Rápido o como yo, Aplazado*
 
 <figure>
-    <img src="/assets/images/bash-windows10/Bash0.png">
+    <img src="{{site.url}}/assets/images/bash-windows10/Bash0.png">
 </figure>
 
 A continuación ir a Configuración del desarrollador y elegir Modo desarrollador.
 
 <figure>
-    <img src="/assets/images/bash-windows10/Bash5.png">
+    <img src="{{site.url}}/assets/images/bash-windows10/Bash5.png">
 </figure>
 
 Una vez hecho esto, abra "activar y desactivar las características de Windows" y seleccione Subsistema de Windows para Linux (beta).
 
 <figure>
-    <img src="/assets/images/bash-windows10/Bash1.png">
+    <img src="{{site.url}}/assets/images/bash-windows10/Bash1.png">
 </figure>
