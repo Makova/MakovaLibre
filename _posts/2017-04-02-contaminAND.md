@@ -14,5 +14,5 @@ project: true
   utilizar como estaciones meteorológicas por la ciudad de Granada.
 
 <figure>
-    <img src="{{ site.url }}/assets/images/proyectos/granada-radioactiva_reducido.png">
+    <img src="{{site.url}}/assets/images/proyectos/granada-radioactiva_reducido.png">
 </figure>
