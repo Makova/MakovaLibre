@@ -31,5 +31,5 @@ A continuación ir a Configuración del desarrollador y elegir Modo desarrollado
 Una vez hecho esto, abra "activar y desactivar las características de Windows" y seleccione Subsistema de Windows para Linux (beta).
 
 <figure>
-    <img src="{{ site.url }}/assets/images/bash-windows10/Bash1.png">
+    <img src="{{site.url}}/assets/images/bash-windows10/Bash1.png">
 </figure>
