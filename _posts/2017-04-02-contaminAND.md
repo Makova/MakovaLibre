@@ -12,3 +12,7 @@ project: true
 
 * La idea de este proyecto es realizar una serie de cajas con distintos sensores para
   utilizar como estaciones meteorológicas por la ciudad de Granada.
+
+<figure>
+    <img src="/assets/images/proyectos/granada-radioactiva_reducido.png">
+</figure>
