@@ -25,11 +25,11 @@ Una vez reiniciado el sistema, volver a *Advanced Windows Update* y elegir la ac
 A continuación ir a Configuración del desarrollador y elegir Modo desarrollador.
 
 <figure>
-    <img src="https://makova.github.io/MakovaLibre/blob/master/assets/images/bash-windows10/Bash5.png">
+    <img src="{{site.url}}/assets/images/bash-windows10/Bash5.png">
 </figure>
 
 Una vez hecho esto, abra "activar y desactivar las características de Windows" y seleccione Subsistema de Windows para Linux (beta).
 
 <figure>
-    <img src="https://makova.github.io/MakovaLibre/blob/master/assets/images/bash-windows10/Bash1.png">
+    <img src="{{ site.url }}/assets/images/bash-windows10/Bash1.png">
 </figure>
