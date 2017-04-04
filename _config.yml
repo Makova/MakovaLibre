@@ -8,7 +8,7 @@ logo:               'assets/img/logo.jpe'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             es_ES
-url:                https://makova.github.io/MakovaLibre/
+url:                https://makova.github.io/MakovaLibre
 
 # Jekyll
 permalink:          /:title/
