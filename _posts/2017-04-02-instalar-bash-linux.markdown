@@ -33,3 +33,28 @@ Una vez hecho esto, abra "activar y desactivar las características de Windows" 
 <figure>
     <img src="{{site.url}}/assets/images/bash-windows10/Bash1.png">
 </figure>
+
+Seguramente después del reinicio, en Windows es algo de lo mas normal, tener que reiniciar el sistema :D
+Pues escribimos bash en la barra de búsqueda y nos aparecerá la terminal, como esta:
+
+<figure>
+	<img src="{{site.url}}/assets/images/bash-windows10/Bash3.png">
+</figure>
+
+* sólo tenemos que seguir las instrucciones para descargar e instalar todo lo necesario, ademśa de crear un usuario y contraseña.
+Después de esto ya tendrá una terminal Bash de Ubuntu funcionado totalmente y ejecutar comandos como estos:
+
+<figure>
+	<img src="{{site.url}}/assets/images/bash-windows10/Bash4.png">
+</figure>
+
+Una vez realizado todos los pasos cada vez que abra `bash` desde el menú incio de Windows 10 estará disponible para ejecutar los comandos.
+
+Lo próximo va a ser instalar básicamente una distribución que este soportada para poder funcionar dentro de Windows 10. Tendremos que descargar un archivo en compresión `.tar` en el directorio personal WSL y cambiar el `rootfs` actual con el elegido que hayamos descargado.
+De esta manera al abrir `bash` podremos cambiar facilmente de una distribución a otra, ejecutando la distribución elegida en vez de Ubuntu.
+
+* Vamos a ello.
+
+### Instala un subsistema Windows para Linux Distribucion Switcher
+
+
